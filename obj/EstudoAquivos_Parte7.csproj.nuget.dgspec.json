@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\csharp\\Curso_NelioAlves\\EstudoAquivos_Parte6\\serializaçãoxml\\serializaçãoxml.csproj": {}
+    "C:\\csharp\\Curso_NelioAlves\\EstudoAquivos_Parte7\\EstudoAquivos_Parte7.csproj": {}
   },
   "projects": {
-    "C:\\csharp\\Curso_NelioAlves\\EstudoAquivos_Parte6\\serializaçãoxml\\serializaçãoxml.csproj": {
+    "C:\\csharp\\Curso_NelioAlves\\EstudoAquivos_Parte7\\EstudoAquivos_Parte7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\csharp\\Curso_NelioAlves\\EstudoAquivos_Parte6\\serializaçãoxml\\serializaçãoxml.csproj",
-        "projectName": "serializaçãoxml",
-        "projectPath": "C:\\csharp\\Curso_NelioAlves\\EstudoAquivos_Parte6\\serializaçãoxml\\serializaçãoxml.csproj",
+        "projectUniqueName": "C:\\csharp\\Curso_NelioAlves\\EstudoAquivos_Parte7\\EstudoAquivos_Parte7.csproj",
+        "projectName": "EstudoAquivos_Parte7",
+        "projectPath": "C:\\csharp\\Curso_NelioAlves\\EstudoAquivos_Parte7\\EstudoAquivos_Parte7.csproj",
         "packagesPath": "C:\\Users\\Kayke\\.nuget\\packages\\",
-        "outputPath": "C:\\csharp\\Curso_NelioAlves\\EstudoAquivos_Parte6\\serializaçãoxml\\obj\\",
+        "outputPath": "C:\\csharp\\Curso_NelioAlves\\EstudoAquivos_Parte7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kayke\\AppData\\Roaming\\NuGet\\NuGet.Config"
